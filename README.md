@@ -1,1 +1,0 @@
-# Analiza-COVID-SQL-Tableau
