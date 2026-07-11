@@ -1,4 +1,5 @@
 📌 Despre Proiect
+
 Acest proiect vizează explorarea și vizualizarea datelor privind pandemia COVID-19. Obiectivul principal a fost transformarea unor date brute, adesea inconsistente, într-un dashboard interactiv care să ofere insight-uri clare despre rata de infectare și impactul mortalității la nivel global.
 
 🛠 Instrumente și Tehnologii
